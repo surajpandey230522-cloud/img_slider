@@ -1,0 +1,14 @@
+ul{
+   padding-top: 3px;   
+    list-style: none;
+    
+    height: 30px;
+    color: white;
+    align-items: center;
+
+}
+
+#navbar{
+    background-color:#0B1849;
+    text-align: center;
+}
