@@ -21,4 +21,4 @@ slide.addEventListener("mouseover", function () {
     slide.src = images[index];
 },1000);
 
-}););
+});
