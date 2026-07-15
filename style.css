@@ -12,3 +12,8 @@ ul{
     background-color:#0B1849;
     text-align: center;
 }
+#sum{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
